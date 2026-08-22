@@ -20,9 +20,8 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/vedasrikavya-blip">
-  
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vedasrikavya-blip&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="vedasrikavya-blip's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=vedasrikavya-blip&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="vedasrikavya-blip's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=vedasrikavya-blip&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Veda Sri Kavya Attaluri's GitHub Trophies" />
